@@ -3,7 +3,6 @@ from tkinter import messagebox
 import random
 import string
 from PIL import Image, ImageTk
-from threading import Thread
 from pygame import mixer
 
 
